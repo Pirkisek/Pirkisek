@@ -17,7 +17,7 @@
   </a>
 </div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6POHIK)
+<p style="text-align: center;">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6POHIK)</p>
 
 ###
 

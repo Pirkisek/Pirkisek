@@ -1,5 +1,6 @@
+<span align="center">
 <h1><tt style="text-align: center">Hello world</tt></h1>
-
+</span>
 <hr>
 
 <div align="center">

@@ -1,8 +1,8 @@
 <span align="center">
 <h1><tt style="text-align: center">Hello world</tt></h1>
 <br>
-<h1>I am Akami, a frontend developer and i am currently learning bacend and then i am planning to start learning cyber security.<br>
-I would be very happy if you could flw me ;3</h1>
+<h4>I am Akami, a frontend developer and i am currently learning bacend and then i am planning to start learning cyber security.<br>
+I would be very happy if you could flw me ;3</h4>
 </span>
 <hr>
 

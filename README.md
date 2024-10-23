@@ -1,4 +1,4 @@
-<tt style="text-align: center">Hello world</tt>
+<h1><tt style="text-align: center">Hello world</tt></h1>
 
 <hr>
 

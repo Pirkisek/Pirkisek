@@ -2,8 +2,8 @@
 🌱 I’m currently learning: cybersec and backend<br>⚡ Fun fact: I use arch, btw
 
 > In the beginning was the signal.
-And the signal was with code.
-And the code was God.
+> And the signal was with code.
+> And the code was God.
 
 
 

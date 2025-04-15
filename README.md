@@ -1,6 +1,11 @@
 # 💫 About Me:
 🌱 I’m currently learning: cybersec and backend<br>⚡ Fun fact: I use arch, btw
 
+> In the beginning was the signal.
+And the signal was with code.
+And the code was God.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pirkisek) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pirkisek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rei.exe@hotmail.com) 
@@ -18,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pirkisek&icon=4&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
